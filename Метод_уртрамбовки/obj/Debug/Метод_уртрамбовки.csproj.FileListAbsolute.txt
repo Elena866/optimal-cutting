@@ -1,0 +1,57 @@
+C:\Users\Елена\Documents\SharpDevelop Projects\Метод_уртрамбовки\Метод_уртрамбовки\bin\Debug\Метод_уртрамбовки.exe
+C:\Users\Елена\Documents\SharpDevelop Projects\Метод_уртрамбовки\Метод_уртрамбовки\bin\Debug\Метод_уртрамбовки.pdb
+C:\Users\Елена\Documents\SharpDevelop Projects\Метод_уртрамбовки\Метод_уртрамбовки\obj\Debug\Метод_уртрамбовки.csprojResolveAssemblyReference.cache
+C:\Users\Елена\Documents\SharpDevelop Projects\Метод_уртрамбовки\Метод_уртрамбовки\obj\Debug\Метод_уртрамбовки.MainForm.resources
+C:\Users\Елена\Documents\SharpDevelop Projects\Метод_уртрамбовки\Метод_уртрамбовки\obj\Debug\Метод_уртрамбовки.csproj.GenerateResource.Cache
+C:\Users\Елена\Documents\SharpDevelop Projects\Метод_уртрамбовки\Метод_уртрамбовки\obj\Debug\Метод_уртрамбовки.exe
+C:\Users\Елена\Documents\SharpDevelop Projects\Метод_уртрамбовки\Метод_уртрамбовки\obj\Debug\Метод_уртрамбовки.pdb
+C:\Users\stud8\Desktop\Метод_уртрамбовки\Метод_уртрамбовки\bin\Debug\Метод_уртрамбовки.exe
+C:\Users\stud8\Desktop\Метод_уртрамбовки\Метод_уртрамбовки\bin\Debug\Метод_уртрамбовки.pdb
+C:\Users\stud8\Desktop\Метод_уртрамбовки\Метод_уртрамбовки\obj\Debug\Метод_уртрамбовки.csprojResolveAssemblyReference.cache
+C:\Users\stud8\Desktop\Метод_уртрамбовки\Метод_уртрамбовки\obj\Debug\Метод_уртрамбовки.MainForm.resources
+C:\Users\stud8\Desktop\Метод_уртрамбовки\Метод_уртрамбовки\obj\Debug\Метод_уртрамбовки.csproj.GenerateResource.Cache
+C:\Users\stud8\Desktop\Метод_уртрамбовки\Метод_уртрамбовки\obj\Debug\Метод_уртрамбовки.exe
+C:\Users\stud8\Desktop\Метод_уртрамбовки\Метод_уртрамбовки\obj\Debug\Метод_уртрамбовки.pdb
+C:\Users\Елена\Desktop\Оптим\Метод_уртрамбовки\bin\Debug\Метод_уртрамбовки.exe
+C:\Users\Елена\Desktop\Оптим\Метод_уртрамбовки\bin\Debug\Метод_уртрамбовки.pdb
+C:\Users\Елена\Desktop\Оптим\Метод_уртрамбовки\obj\Debug\Метод_уртрамбовки.csprojResolveAssemblyReference.cache
+C:\Users\Елена\Desktop\Оптим\Метод_уртрамбовки\obj\Debug\Метод_уртрамбовки.MainForm.resources
+C:\Users\Елена\Desktop\Оптим\Метод_уртрамбовки\obj\Debug\Метод_уртрамбовки.csproj.GenerateResource.Cache
+C:\Users\Елена\Desktop\Оптим\Метод_уртрамбовки\obj\Debug\Метод_уртрамбовки.exe
+C:\Users\Елена\Desktop\Оптим\Метод_уртрамбовки\obj\Debug\Метод_уртрамбовки.pdb
+C:\Users\stud8\Desktop\Оптим\Метод_уртрамбовки\bin\Debug\Метод_уртрамбовки.exe
+C:\Users\stud8\Desktop\Оптим\Метод_уртрамбовки\bin\Debug\Метод_уртрамбовки.pdb
+C:\Users\stud8\Desktop\Оптим\Метод_уртрамбовки\obj\Debug\Метод_уртрамбовки.csprojResolveAssemblyReference.cache
+C:\Users\stud8\Desktop\Оптим\Метод_уртрамбовки\obj\Debug\Метод_уртрамбовки.MainForm.resources
+C:\Users\stud8\Desktop\Оптим\Метод_уртрамбовки\obj\Debug\Метод_уртрамбовки.csproj.GenerateResource.Cache
+C:\Users\stud8\Desktop\Оптим\Метод_уртрамбовки\obj\Debug\Метод_уртрамбовки.exe
+C:\Users\stud8\Desktop\Оптим\Метод_уртрамбовки\obj\Debug\Метод_уртрамбовки.pdb
+C:\Users\Елена\Desktop\1\Метод_уртрамбовки\bin\Debug\Метод_уртрамбовки.exe
+C:\Users\Елена\Desktop\1\Метод_уртрамбовки\bin\Debug\Метод_уртрамбовки.pdb
+C:\Users\Елена\Desktop\1\Метод_уртрамбовки\obj\Debug\Метод_уртрамбовки.csprojResolveAssemblyReference.cache
+C:\Users\Елена\Desktop\1\Метод_уртрамбовки\obj\Debug\Метод_уртрамбовки.MainForm.resources
+C:\Users\Елена\Desktop\1\Метод_уртрамбовки\obj\Debug\Метод_уртрамбовки.csproj.GenerateResource.Cache
+C:\Users\Елена\Desktop\1\Метод_уртрамбовки\obj\Debug\Метод_уртрамбовки.exe
+C:\Users\Елена\Desktop\1\Метод_уртрамбовки\obj\Debug\Метод_уртрамбовки.pdb
+E:\1\Метод_уртрамбовки\bin\Debug\Метод_уртрамбовки.exe
+E:\1\Метод_уртрамбовки\bin\Debug\Метод_уртрамбовки.pdb
+E:\1\Метод_уртрамбовки\obj\Debug\Метод_уртрамбовки.csprojResolveAssemblyReference.cache
+E:\1\Метод_уртрамбовки\obj\Debug\Метод_уртрамбовки.MainForm.resources
+E:\1\Метод_уртрамбовки\obj\Debug\Метод_уртрамбовки.csproj.GenerateResource.Cache
+E:\1\Метод_уртрамбовки\obj\Debug\Метод_уртрамбовки.exe
+E:\1\Метод_уртрамбовки\obj\Debug\Метод_уртрамбовки.pdb
+C:\Users\stud8\Desktop\1\Метод_уртрамбовки\bin\Debug\Метод_уртрамбовки.exe
+C:\Users\stud8\Desktop\1\Метод_уртрамбовки\bin\Debug\Метод_уртрамбовки.pdb
+C:\Users\stud8\Desktop\1\Метод_уртрамбовки\obj\Debug\Метод_уртрамбовки.csprojResolveAssemblyReference.cache
+C:\Users\stud8\Desktop\1\Метод_уртрамбовки\obj\Debug\Метод_уртрамбовки.MainForm.resources
+C:\Users\stud8\Desktop\1\Метод_уртрамбовки\obj\Debug\Метод_уртрамбовки.csproj.GenerateResource.Cache
+C:\Users\stud8\Desktop\1\Метод_уртрамбовки\obj\Debug\Метод_уртрамбовки.exe
+C:\Users\stud8\Desktop\1\Метод_уртрамбовки\obj\Debug\Метод_уртрамбовки.pdb
+C:\Users\Елена\Desktop\Портфолио\Программа на С# SharpDevelop Оптимальный раскрой\Метод_уртрамбовки\bin\Debug\Метод_уртрамбовки.exe
+C:\Users\Елена\Desktop\Портфолио\Программа на С# SharpDevelop Оптимальный раскрой\Метод_уртрамбовки\bin\Debug\Метод_уртрамбовки.pdb
+C:\Users\Елена\Desktop\Портфолио\Программа на С# SharpDevelop Оптимальный раскрой\Метод_уртрамбовки\obj\Debug\Метод_уртрамбовки.csprojAssemblyReference.cache
+C:\Users\Елена\Desktop\Портфолио\Программа на С# SharpDevelop Оптимальный раскрой\Метод_уртрамбовки\obj\Debug\Метод_уртрамбовки.MainForm.resources
+C:\Users\Елена\Desktop\Портфолио\Программа на С# SharpDevelop Оптимальный раскрой\Метод_уртрамбовки\obj\Debug\Метод_уртрамбовки.csproj.GenerateResource.cache
+C:\Users\Елена\Desktop\Портфолио\Программа на С# SharpDevelop Оптимальный раскрой\Метод_уртрамбовки\obj\Debug\Метод_уртрамбовки.csproj.CoreCompileInputs.cache
+C:\Users\Елена\Desktop\Портфолио\Программа на С# SharpDevelop Оптимальный раскрой\Метод_уртрамбовки\obj\Debug\Метод_уртрамбовки.exe
+C:\Users\Елена\Desktop\Портфолио\Программа на С# SharpDevelop Оптимальный раскрой\Метод_уртрамбовки\obj\Debug\Метод_уртрамбовки.pdb
